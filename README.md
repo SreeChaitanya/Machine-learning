@@ -1,4 +1,4 @@
-# Machine-learning
+# Machine Learning
 
 Contains solutions to machine-learning problems hosted on various sites like Hackerearth
 
